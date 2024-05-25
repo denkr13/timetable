@@ -19,7 +19,7 @@
                                 echo "
                                     <th>
                                         <a href='?class=$class_number'>$class_number</a>
-                                    </th>";
+                                    </th>";00000
                             }
                         }
                         else
